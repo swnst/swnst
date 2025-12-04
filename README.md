@@ -1,4 +1,4 @@
-### Hi there, I'm Wiwat Suwannasit
+### 👋 Hi there, I'm Wiwat Suwannasit
 
 I'm an **IoT & Information Engineering Student** with a strong background in hardware and system optimization, currently journeying into the world of **Cloud & DevOps**.
 
@@ -19,9 +19,3 @@ I'm an **IoT & Information Engineering Student** with a strong background in har
 
 **Scripting (Learning):**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Suwannasit's GitHub stats](https://github-readme-stats.vercel.app/api?username=swnst&show_icons=true&theme=radical)
