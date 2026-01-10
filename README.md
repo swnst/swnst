@@ -33,5 +33,3 @@ Currently, I am focused on building reliable CI/CD pipelines, container orchestr
 - **🚀 The Zero-Touch Pipeline:** Automated CI/CD workflow using GitHub Actions & Render.
 - **🐳 The Orchestrator:** Microservices architecture with Docker Compose, Nginx, and Redis.
 - **🛡️ The Sentinel Stack:** Full-stack observability using Prometheus and Grafana.
-
-[📫 Connect with me on LinkedIn](https://www.linkedin.com/in/wiwat-swnst)
