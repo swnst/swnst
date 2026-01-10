@@ -30,6 +30,6 @@ Currently, I am focused on building reliable CI/CD pipelines, container orchestr
 ---
 
 ### 📂 Recent Projects
-- **🚀 The Zero-Touch Pipeline:** Automated CI/CD workflow using GitHub Actions & Render.
-- **🐳 The Orchestrator:** Microservices architecture with Docker Compose, Nginx, and Redis.
-- **🛡️ The Sentinel Stack:** Full-stack observability using Prometheus and Grafana.
+- **🚀 The Zero-Touch Pipeline:** Automated CI/CD pipeline demonstrating a "Zero-Touch" deployment workflow using Docker, GitHub Actions, and Render.
+- **🐳 The Orchestrator:** Multi-container application demonstrating Docker Compose orchestration with Nginx (Reverse Proxy), Flask, and Redis (Persistence).
+- **🛡️ The Sentinel Stack:** Metric-based Observability stack integrating Prometheus & Grafana for real-time performance monitoring of containerized services.
