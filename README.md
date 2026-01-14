@@ -27,9 +27,3 @@ Currently, I am focused on building reliable CI/CD pipelines, container orchestr
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-### 📂 Recent Projects
-- **🚀 The Zero-Touch Pipeline:** Automated CI/CD pipeline demonstrating a "Zero-Touch" deployment workflow using Docker, GitHub Actions, and Render.
-- **🐳 The Orchestrator:** Multi-container application demonstrating Docker Compose orchestration with Nginx (Reverse Proxy), Flask, and Redis (Persistence).
-- **🛡️ The Sentinel Stack:** Metric-based Observability stack integrating Prometheus & Grafana for real-time performance monitoring of containerized services.
